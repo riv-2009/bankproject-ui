@@ -1,0 +1,43 @@
+.horizontal-list {
+    margin-top: 50px;
+}
+
+ul.horizontal-list li {
+    display: inline-block;
+    padding: 0 0.5rem;
+    width: 10rem;
+    text-align: center;
+}
+ul.horizontal-list li button {
+    width: 150px;
+}
+
+.submitTransferMargin {
+    margin-top: 60px;
+}
+.myBorder {
+    border-color: blue;
+    border-style: solid;
+    border-width: 3px;
+}
+.bMargin {
+    margin-bottom: 200px;
+}
+.m30 {
+    margin-top: 30px;
+}
+.m75 {
+    margin-top: 75px;
+}
+
+select {
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    border-width: 2px;
+}
+#transferAmount {
+    border-radius: 5px;
+    padding: 5px;
+    border-width: 2px;
+}
